@@ -1,0 +1,20 @@
+c:/users/jose donoso/source/repos/tarea_lectura de_archivos/tarea_lectura de_archivos/bin/Debug/tarea_lectura de_archivos.exe.config
+c:/users/jose donoso/source/repos/tarea_lectura de_archivos/tarea_lectura de_archivos/bin/Debug/tarea_lectura de_archivos.exe
+c:/users/jose donoso/source/repos/tarea_lectura de_archivos/tarea_lectura de_archivos/bin/Debug/tarea_lectura de_archivos.pdb
+c:/users/jose donoso/source/repos/tarea_lectura de_archivos/tarea_lectura de_archivos/obj/Debug/tarea_lectura de_archivos.csprojAssemblyReference.cache
+c:/users/jose donoso/source/repos/tarea_lectura de_archivos/tarea_lectura de_archivos/obj/Debug/tarea_lectura_de_archivos.Form1.resources
+c:/users/jose donoso/source/repos/tarea_lectura de_archivos/tarea_lectura de_archivos/obj/Debug/tarea_lectura_de_archivos.Properties.Resources.resources
+c:/users/jose donoso/source/repos/tarea_lectura de_archivos/tarea_lectura de_archivos/obj/Debug/tarea_lectura de_archivos.csproj.GenerateResource.cache
+c:/users/jose donoso/source/repos/tarea_lectura de_archivos/tarea_lectura de_archivos/obj/Debug/tarea_lectura de_archivos.csproj.CoreCompileInputs.cache
+c:/users/jose donoso/source/repos/tarea_lectura de_archivos/tarea_lectura de_archivos/obj/Debug/tarea_lectura de_archivos.exe
+c:/users/jose donoso/source/repos/tarea_lectura de_archivos/tarea_lectura de_archivos/obj/Debug/tarea_lectura de_archivos.pdb
+/media/jose/FC00E68900E64A6A/Users/Jose Donoso/source/repos/tarea_lectura de_archivos/tarea_lectura de_archivos/bin/Debug/tarea_lectura de_archivos.exe.config
+/media/jose/FC00E68900E64A6A/Users/Jose Donoso/source/repos/tarea_lectura de_archivos/tarea_lectura de_archivos/bin/Debug/tarea_lectura de_archivos.exe
+/media/jose/FC00E68900E64A6A/Users/Jose Donoso/source/repos/tarea_lectura de_archivos/tarea_lectura de_archivos/bin/Debug/tarea_lectura de_archivos.pdb
+/media/jose/FC00E68900E64A6A/Users/Jose Donoso/source/repos/tarea_lectura de_archivos/tarea_lectura de_archivos/obj/Debug/tarea_lectura de_archivos.csprojResolveAssemblyReference.cache
+/media/jose/FC00E68900E64A6A/Users/Jose Donoso/source/repos/tarea_lectura de_archivos/tarea_lectura de_archivos/obj/Debug/tarea_lectura_de_archivos.Form1.resources
+/media/jose/FC00E68900E64A6A/Users/Jose Donoso/source/repos/tarea_lectura de_archivos/tarea_lectura de_archivos/obj/Debug/tarea_lectura_de_archivos.Resources.resources
+/media/jose/FC00E68900E64A6A/Users/Jose Donoso/source/repos/tarea_lectura de_archivos/tarea_lectura de_archivos/obj/Debug/tarea_lectura de_archivos.csproj.GenerateResource.cache
+/media/jose/FC00E68900E64A6A/Users/Jose Donoso/source/repos/tarea_lectura de_archivos/tarea_lectura de_archivos/obj/Debug/tarea_lectura de_archivos.csproj.CoreCompileInputs.cache
+/media/jose/FC00E68900E64A6A/Users/Jose Donoso/source/repos/tarea_lectura de_archivos/tarea_lectura de_archivos/obj/Debug/tarea_lectura de_archivos.exe
+/media/jose/FC00E68900E64A6A/Users/Jose Donoso/source/repos/tarea_lectura de_archivos/tarea_lectura de_archivos/obj/Debug/tarea_lectura de_archivos.pdb

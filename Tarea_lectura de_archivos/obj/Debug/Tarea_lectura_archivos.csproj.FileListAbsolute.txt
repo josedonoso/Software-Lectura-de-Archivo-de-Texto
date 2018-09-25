@@ -1,0 +1,10 @@
+C:\Users\Jose Donoso\source\repos\tarea_lectura de_archivos\tarea_lectura de_archivos\bin\Debug\tarea_lectura de_archivos.exe.config
+C:\Users\Jose Donoso\source\repos\tarea_lectura de_archivos\tarea_lectura de_archivos\bin\Debug\tarea_lectura de_archivos.exe
+C:\Users\Jose Donoso\source\repos\tarea_lectura de_archivos\tarea_lectura de_archivos\bin\Debug\tarea_lectura de_archivos.pdb
+C:\Users\Jose Donoso\source\repos\tarea_lectura de_archivos\tarea_lectura de_archivos\obj\Debug\Tarea_lectura_archivos.csprojAssemblyReference.cache
+C:\Users\Jose Donoso\source\repos\tarea_lectura de_archivos\tarea_lectura de_archivos\obj\Debug\Tarea_lectura_de_archivos.Form1.resources
+C:\Users\Jose Donoso\source\repos\tarea_lectura de_archivos\tarea_lectura de_archivos\obj\Debug\tarea_lectura_de_archivos.Properties.Resources.resources
+C:\Users\Jose Donoso\source\repos\tarea_lectura de_archivos\tarea_lectura de_archivos\obj\Debug\Tarea_lectura_archivos.csproj.GenerateResource.cache
+C:\Users\Jose Donoso\source\repos\tarea_lectura de_archivos\tarea_lectura de_archivos\obj\Debug\Tarea_lectura_archivos.csproj.CoreCompileInputs.cache
+C:\Users\Jose Donoso\source\repos\tarea_lectura de_archivos\tarea_lectura de_archivos\obj\Debug\tarea_lectura de_archivos.exe
+C:\Users\Jose Donoso\source\repos\tarea_lectura de_archivos\tarea_lectura de_archivos\obj\Debug\tarea_lectura de_archivos.pdb
